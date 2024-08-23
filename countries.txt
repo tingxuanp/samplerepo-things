@@ -2,3 +2,5 @@ Singapore
 America 
 Australia
 china 
+spain 
+italy
